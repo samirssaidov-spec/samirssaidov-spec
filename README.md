@@ -4,11 +4,11 @@
 
 I'm a passionate developer who enjoys building projects, learning new technologies, and solving real-world problems through code.
 
-- 🔭 Currently working on: **Your current project**
+- 🔭 Currently working on: **a website for my portfolio**
 - 🌱 Currently learning: **Technology you're learning**
 - 👯 Looking to collaborate on: **Open-source projects**
 - 💬 Ask me about: **Programming, Web Development, etc.**
-- 📫 Reach me at: **your.email@example.com**
+- 📫 Reach me at: **samir.s.saidov@gmail.com**
 - ⚡ Fun fact: **Something interesting about you**
 
 ## 🛠️ Technologies & Tools

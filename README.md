@@ -4,7 +4,7 @@
 
 I'm a passionate developer who enjoys building projects, learning new technologies, and solving real-world problems through code.
 
--  Currently working on: **a website for my portfolio**
+-  Currently working on: **A Website For My Portfolio**
 -  Currently learning: **Visual Studio Code**
 -  Looking to collaborate on: **Open-source projects**
 -  Ask me about: **Programming, Web Development, etc.**

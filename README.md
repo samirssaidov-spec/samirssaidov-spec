@@ -1,17 +1,17 @@
 # Hi there 👋, I'm Samir
 
-## 🚀 About Me
+## About Me
 
 I'm a passionate developer who enjoys building projects, learning new technologies, and solving real-world problems through code.
 
-- 🔭 Currently working on: **a website for my portfolio**
-- 🌱 Currently learning: **Technology you're learning**
-- 👯 Looking to collaborate on: **Open-source projects**
-- 💬 Ask me about: **Programming, Web Development, etc.**
-- 📫 Reach me at: **samir.s.saidov@gmail.com**
-- ⚡ Fun fact: **Something interesting about you**
+-  Currently working on: **a website for my portfolio**
+-  Currently learning: **Technology you're learning**
+-  Looking to collaborate on: **Open-source projects**
+-  Ask me about: **Programming, Web Development, etc.**
+-  Reach me at: **samir.s.saidov@gmail.com**
+-  Fun fact: **Something interesting about you**
 
-## 🛠️ Technologies & Tools
+##  Technologies & Tools
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=for-the-badge&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=javascript)

@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Samir
+# Samir Saidov
 
 ## About Me
 
